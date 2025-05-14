@@ -50,4 +50,4 @@ This systematic approach, while currently leveraging traditional analytical tool
   - Implement anomaly detection algorithms to flag unusual VIX spikes or sector deviations.
   - Optimize portfolio rebalancing strategies using reinforcement learning based on client objectives and risk constraints.
 
-[Click here to explore the case study]()
+[Click here to explore the case study](https://github.com/edaaydinea/BankofAmerica_GlobalMarketsSalesTradingAnalyst/blob/main/T1/Market%20Insight%20Report%20for%20Emerald%20Investments.pdf)
